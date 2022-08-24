@@ -32,6 +32,6 @@
 
 ## 参考：
 
-[eventLoop](https://github.com/llaurora/KnowledgeNote/blob/master/%E6%B5%8F%E8%A7%88%E5%99%A8%E7%BD%91%E7%BB%9C/Event%20Loop.md)
-[Generator Function](https://github.com/facebook/react/issues/7942#issuecomment-254987818)
-[掘金](https://juejin.cn/post/6953804914715803678)
+* [eventLoop](https://github.com/llaurora/KnowledgeNote/blob/master/%E6%B5%8F%E8%A7%88%E5%99%A8%E7%BD%91%E7%BB%9C/Event%20Loop.md)
+* [Generator Function](https://github.com/facebook/react/issues/7942#issuecomment-254987818)
+* [掘金](https://juejin.cn/post/6953804914715803678)
